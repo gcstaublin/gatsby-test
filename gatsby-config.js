@@ -3,5 +3,16 @@ module.exports = {
     title: `Gatsby Default Starter`,
     uniCSSVersion: `0.12.5`,
   },
-  plugins: [`gatsby-plugin-react-helmet`],
+  plugins: [
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data/`
+      }
+    },
+  `gatsby-plugin-react-helmet`,
+  `gatsby-transformer-yaml`,
+  `gatsby-transformer-json`,
+  ],
 }
