@@ -1,0 +1,123 @@
+# Web/CSS Subnav Items
+- section: Information
+  links:
+    - name: Getting Started
+      url:
+      subnav_selected: css_gettingstarted
+
+    - name: Auto Theming
+      url: theming
+      subnav_selected: css_theming
+
+- section: Configuration
+  links:
+    - name: Variables
+      url: variables
+      subnav_selected: css_variables
+
+    - name: Deprecated Variables
+      url: variables-deprecated
+      subnav_selected: css_variables-deprecated
+
+    - name: Z-Index + Elevation
+      url: zindex
+      subnav_selected: css_zindex
+
+    - name: Mixins
+      url: mixins
+      subnav_selected: css_mixins
+
+    # - name: Functions &starf;
+    #   url: functions
+    #   subnav_selected: css_functions
+
+    # - name: Grid &starf;
+    #   url: grid
+    #   subnav_selected: css_grid
+
+    # - name: Colors &starf;
+    #   url: colors
+    #   subnav_selected: css_colors
+
+- section: Element Styling
+  links:
+    - name: Type
+      url: type
+      subnav_selected: css_type
+
+    - name: Links
+      url: links
+      subnav_selected: css_links
+
+    - name: Buttons
+      url: buttons
+      subnav_selected: css_buttons
+
+
+    - name: Forms
+      url: forms
+      subnav_selected: css_forms
+
+    # - name: Tables &starf;
+    #   url: tables
+    #   subnav_selected: css_tables
+
+    - name: Avatars
+      url: avatars
+      subnav_selected: css_avatars
+
+    - name: Selectmark
+      url: selectmark
+      subnav_selected: css_selectmark
+
+    - name: Modals
+      url: modals
+      subnav_selected: css_modals
+
+    - name: Selects
+      url: selects
+      subnav_selected: css_selects
+
+    # - name: Badges
+    #   url: badges
+    #   subnav_selected: css_badges
+
+    # - name: Banners
+    #   url: banners
+    #   subnav_selected: css_banners
+
+    - name: Icons
+      url: icons
+      subnav_selected: css_icons
+
+    # - name: Media
+    #   url: media
+    #   subnav_selected: css_media
+
+    # - name: Micro Layouts
+    #   url: micro-layouts
+    #   subnav_selected: css_microlayouts
+
+    # - name: Navigation
+    #   url: navigation
+    #   subnav_selected: css_navigation
+
+    - name: Space Classes
+      url: space
+      subnav_selected: css_space
+
+    - name: Environment + Level
+      url: environment-level
+      subnav_selected: css_environment-level
+
+    - name: Toasts
+      url: toasts
+      subnav_selected: css_toasts
+
+    # - name: Spinners
+    #   url: spinners
+    #   subnav_selected: css_spinners
+
+    # - name: Utilities
+    #   url: utilities
+    #   subnav_selected: css_utilities

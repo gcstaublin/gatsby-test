@@ -9,6 +9,8 @@ const IndexPage = () => (
     <Link className="uni-link" to="/page-2/">Go to page 2</Link>
     <br />
     <Link className="uni-link" to="/buttons/buttons/">Go to Buttons Page</Link>
+    <br />
+    <Link className="uni-link" to="/tokens/color/">Go to Color Page</Link>
   </div>
 )
 
