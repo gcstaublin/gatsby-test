@@ -38,7 +38,6 @@ export default class HTML extends React.Component {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 
-          <link rel="stylesheet" href="https://s3.amazonaws.com/hudl-ui/uniform-ui-css/${data.site.siteMetadata.uniCSSVersion}/uniform-ui-ALPHA.css.gz" />
           <link rel="stylesheet" href="https://s3.amazonaws.com/hudl-ui/uniform-ui-css/0.12.7/uniform-ui-ALPHA.css.gz" />
           <link rel="stylesheet" href="http://hudl.github.io/uniform-ui-docs/assets/css/main.css" />
 
