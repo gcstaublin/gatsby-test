@@ -8,7 +8,7 @@ import ExamplePageHeader from '../../components/example-page-header/example-page
 
 
 export default ({ data }) => {
-  console.log(data)
+
   return (
     <div>
       <ExamplePageHeader pageModified="January 1, 1999" pageTitle="Color Tokens, yo">
@@ -22,13 +22,28 @@ export default ({ data }) => {
             <a className="unidocs-example__hdr-link" href={"#" + node.name}>#</a>
             {node.name}
           </h2>
-          {node.colors.map((color, i) =>
-            <div className="uni-margin--half--btm" key={i}>
-              <p style={{backgroundColor: 'rgba(' + color.value + ')'}}>{color.value}</p>
-              <p>{color.sassVar}</p>
-              <p>{color.value}</p>
-            </div>
-          )}
+
+          <div className="unidocs-example__section unidocs-example__table">
+            <table className="unidocs-example__table--color--3">
+              <thead>
+                <tr>
+                  <th></th>
+                  <th>Variable Name</th>
+                  <th>RGBa</th>
+                </tr>
+              </thead>
+              <tbody>
+              {node.colors.map((color, i) =>
+                <tr>
+                <td><div style={{backgroundColor: 'rgba(' + color.value + ')'}}>&nbsp;</div></td>
+                <td>{color.sassVar}</td>
+                <td>{"rgba(" + color.value + ")"}</td>
+                </tr>
+              )}
+              </tbody>
+            </table>
+          </div>
+
         </article>
       )}
     </div>
