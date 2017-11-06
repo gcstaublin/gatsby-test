@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 import ExampleTheme from '../example-theme-controls/example-theme-controls'
 
-import styles from './style.module.css';
+import styles from './style.module.scss';
 
 
 
@@ -17,7 +17,7 @@ const ExampleComponent = ({ children, idLink, title, status, text, hasTheme }) =
       </h3>
 
 
-      <div className="uni-text unidocs-example__text">
+      <div className={"uni-text unidocs-example__text " + styles.test }>
         {text}
       </div>
 
