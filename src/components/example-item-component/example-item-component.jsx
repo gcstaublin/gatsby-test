@@ -22,6 +22,7 @@ const ExampleComponent = ({ children, idLink, title, status, text, hasTheme }) =
       </div>
 
 
+
       <div className="unidocs-example__section unidocs-example__section--has-theme-btns uni-env--light">
         <div className="unidocs-example__section-inner js-section__inner uni-bg--level0">
           { hasTheme !== 'false' ? <ExampleTheme id={idLink} /> : null }
