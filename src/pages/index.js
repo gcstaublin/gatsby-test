@@ -18,6 +18,8 @@ const IndexPage = () => (
     <Link className="uni-link" to="/buttons/buttons/">Go to Buttons Page</Link>
     <br /> <br />
     <Link className="uni-link" to="/tokens/color/">Go to Color Page</Link>
+    <br /> <br />
+    <Link className="uni-link" to="/links/links/">Go to Links Page</Link>
   </div>
 )
 
