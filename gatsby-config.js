@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/gatsby-test`,
   siteMetadata: {
     title: `Gatsby Default Starter`,
     uniCSSVersion: `0.12.5`,
