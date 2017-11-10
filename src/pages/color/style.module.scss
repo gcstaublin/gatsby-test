@@ -1,0 +1,13 @@
+@import '../../../node_modules/hudl-uniform-ui-css/source/scss/variables/var.all.scss';
+@import '../../../node_modules/hudl-uniform-ui-css/source/scss/functions/func.all.scss';
+@import '../../../node_modules/hudl-uniform-ui-css/source/scss/mixins/mix.all.scss';
+
+.textNormal {
+  @include uniform-type(text);
+  margin-bottom: $space-one;
+}
+
+.textLarge {
+  @include uniform-type(text);
+  margin-bottom: $space-one;
+}

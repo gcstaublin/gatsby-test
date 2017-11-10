@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/gatsby-test`,
   siteMetadata: {
     title: `Gatsby Default Starter`,
     uniCSSVersion: `0.12.5`,
@@ -15,5 +16,6 @@ module.exports = {
   `gatsby-transformer-yaml`,
   `gatsby-transformer-json`,
   `gatsby-plugin-sass`,
+  `gatsby-transformer-remark`,
   ],
 }
