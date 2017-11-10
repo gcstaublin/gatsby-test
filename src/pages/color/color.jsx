@@ -1,6 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+import Markdown from 'react-markdown'
+
 
 import ExamplePageHeader from '../../components/example-page-header/example-page-header';
 import ExampleSection from '../../components/example-section/example-section-component';
@@ -11,6 +13,8 @@ import DoItemComponent from '../../components/example-do-item/example-do-item-co
 import Button from '../../components/component-button/button';
 
 import styles from './style.module.scss';
+
+// import Text from './_test_color_text.md';
 
 
 const ColorPage = () => (
@@ -81,6 +85,17 @@ const ColorPage = () => (
         </DoItemComponent>
 
       </DoContainer>
+
+      <div>
+        Trying to use react-markdown to write markdown within a jsx file. Does not work. Sigh.
+        <Markdown>
+        {`
+          # Hello
+
+          poop markdown
+        `}
+        </Markdown>
+      </div>
 
     </ExampleSection>
 

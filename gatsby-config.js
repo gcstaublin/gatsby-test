@@ -16,5 +16,6 @@ module.exports = {
   `gatsby-transformer-yaml`,
   `gatsby-transformer-json`,
   `gatsby-plugin-sass`,
+  `gatsby-transformer-remark`,
   ],
 }
