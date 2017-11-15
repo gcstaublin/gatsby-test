@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'gatsby-link'
 
 import styles from './nav.module.css';
 
@@ -65,7 +66,7 @@ const Nav = ({ children }) => {
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Avatars</a>
+        <Link to="/components/avatars">Avatars</Link>
       </li>
 
       <li className="unidocs-subnav__item">
