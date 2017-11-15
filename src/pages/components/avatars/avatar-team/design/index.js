@@ -2,6 +2,8 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import ExamplePageHeader from '../../../../../components/example-page-header/example-page-header';
+import ExampleComponent from '../../../../../components/example-item-component/example-item-component';
+
 
 import { AvatarTeam } from 'hudl-uniform-ui-components';
 

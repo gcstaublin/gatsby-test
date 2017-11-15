@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import ExamplePageHeader from '../../../../../components/example-page-header/example-page-header';
+import ExampleComponent from '../../../../../components/example-item-component/example-item-component';
 
 import { AvatarUser } from 'hudl-uniform-ui-components';
 
@@ -12,8 +13,16 @@ const IndexPage = () => (
     <div className="uni-bg--level0 uni-pad--two">
       <ExamplePageHeader pageTitle="Avatar User Code">
         <p className="uni-text uni-margin--one--btm">Avatars code is great!</p>
-        <AvatarUser size="profile" />
       </ExamplePageHeader>
+
+      <ExampleComponent
+        text="The user avatar is used to represent individuals across Hudl."
+        idLink="avatar-user"
+        title="Avatar User"
+        status="stable">
+        <AvatarUser size="profile" />
+        <AvatarUser size="profile" />
+      </ExampleComponent>
 
       <br /> <br />
       <Link className="uni-link" to="/components/avatars/">Avatars</Link>
