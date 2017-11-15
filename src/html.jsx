@@ -36,8 +36,7 @@ export default class HTML extends React.Component {
           <meta charset="utf-8" />
           <meta http-equiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <script src="https://sc-ui.hudl.com/uniform-ui-components/all/2.18.0/uniform-ui-components_vendor.js.gz"></script>
-            <script src="https://sc-ui.hudl.com/uniform-ui-components/all/2.18.0/uniform-ui-components.js.gz"></script>
+
 
           <link rel="stylesheet" href="https://s3.amazonaws.com/hudl-ui/uniform-ui-css/0.12.7/uniform-ui-ALPHA.css.gz" />
           <link rel="stylesheet" href="http://hudl.github.io/uniform-ui-docs/assets/css/main.css" />

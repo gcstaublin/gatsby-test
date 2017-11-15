@@ -1,18 +1,21 @@
-import React from 'react'
-import Link from 'gatsby-link'
-
+import React from 'react';
+import Link from 'gatsby-link';
 
 import ExamplePageHeader from '../../components/example-page-header/example-page-header';
 import ExampleComponent from '../../components/example-item-component/example-item-component';
-import Button from '../../components/component-button/button';
-import ButtonRow from '../../components/component-button-row/button-row';
-
+import { Button, ButtonRow } from 'hudl-uniform-ui-components';
 
 const ButtonsPage = () => (
   <div>
-
     <ExamplePageHeader pageModified="January 1, 1999" pageTitle="Buttons, yo">
-      <p>Uniform-UI provides custom button styles for actions in forms, dialogs and any place within Hudl that is submitting information or initiating action. There are a variety of contextual variations, sizes and usages across the spectrum for what you’ll need to build Hudl. Learn more about <Link className="uni-Link" to="/">correct application of Uniform buttons.</Link></p>
+      <p>
+        Uniform-UI provides custom button styles for actions in forms, dialogs and any place within Hudl that is
+        submitting information or initiating action. There are a variety of contextual variations, sizes and usages
+        across the spectrum for what you’ll need to build Hudl. Learn more about{' '}
+        <Link className="uni-Link" to="/">
+          correct application of Uniform buttons.
+        </Link>
+      </p>
     </ExamplePageHeader>
 
     {/* Standard Buttons          */}
@@ -22,7 +25,7 @@ const ButtonsPage = () => (
       idLink="standard-buttons"
       title="Standard Buttons"
       status="deprecated"
-      >
+    >
       <ButtonRow>
         <Button text="Button" />
         <Button type="primary" text="Primary" />
@@ -34,7 +37,6 @@ const ButtonsPage = () => (
       </ButtonRow>
     </ExampleComponent>
 
-
     {/* Minimal Buttons          */}
     {/* ========================= */}
     <ExampleComponent
@@ -42,7 +44,7 @@ const ButtonsPage = () => (
       idLink="minimal-buttons"
       title="Minimal Buttons"
       status="stable"
-      >
+    >
       <ButtonRow>
         <Button text="Button" style="minimal" />
         <Button type="primary" text="Primary" style="minimal" />
@@ -54,8 +56,6 @@ const ButtonsPage = () => (
       </ButtonRow>
     </ExampleComponent>
 
-
-
     {/* Minimal Buttons          */}
     {/* ========================= */}
     <ExampleComponent
@@ -63,14 +63,13 @@ const ButtonsPage = () => (
       idLink="size-variations"
       title="Size Variations"
       status="stable"
-      >
+    >
       <ButtonRow>
         <Button text="Small" size="small" />
         <Button text="Medium" size="medium" />
-        <Button text="Large" size="Large" />
+        <Button text="Large" size="large" />
       </ButtonRow>
     </ExampleComponent>
-
 
     {/* Icon Buttons          */}
     {/* ========================= */}
@@ -79,17 +78,16 @@ const ButtonsPage = () => (
       idLink="icon-buttons"
       title="Buttons with Icons"
       status="stable"
-      >
+    >
       <ButtonRow>
         <Button text="Play" size="small" />
         <Button text="Upload" size="medium" type="primary" />
-        <Button text="Exchange" size="Large" type="primary" />
+        <Button text="Exchange" size="large" type="primary" />
       </ButtonRow>
     </ExampleComponent>
 
     <ExampleComponent> </ExampleComponent>
-
   </div>
-)
+);
 
-export default ButtonsPage
+export default ButtonsPage;
