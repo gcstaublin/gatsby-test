@@ -4,21 +4,57 @@
       "component---src-pages-tokens-color-jsx-1b2649253732d4d582f0.js",
       "component---src-pages-tokens-color-jsx-1b2649253732d4d582f0.js.map"
     ],
+    "path---components-avatars-avatar-org-code": [
+      "path---components-avatars-avatar-org-code-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-org-code-1db04e5021b40904aca6.js.map"
+    ],
+    "component---src-pages-components-avatars-avatar-user-design-index-js": [
+      "component---src-pages-components-avatars-avatar-user-design-index-js-f10d68187dcb00379833.js",
+      "component---src-pages-components-avatars-avatar-user-design-index-js-f10d68187dcb00379833.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-a4aa34ac56ad47746d13.js",
       "component---src-pages-index-js-a4aa34ac56ad47746d13.js.map"
+    ],
+    "component---src-pages-components-avatars-avatar-org-code-index-js": [
+      "component---src-pages-components-avatars-avatar-org-code-index-js-539bdebf85c68ce5e4e8.js",
+      "component---src-pages-components-avatars-avatar-org-code-index-js-539bdebf85c68ce5e4e8.js.map"
+    ],
+    "component---src-pages-components-avatars-avatar-user-code-index-js": [
+      "component---src-pages-components-avatars-avatar-user-code-index-js-a25b2a7d0c364d83a17a.js",
+      "component---src-pages-components-avatars-avatar-user-code-index-js-a25b2a7d0c364d83a17a.js.map"
+    ],
+    "component---src-pages-components-avatars-index-js": [
+      "component---src-pages-components-avatars-index-js-e481770f14b7c1fe5807.js",
+      "component---src-pages-components-avatars-index-js-e481770f14b7c1fe5807.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "component---src-pages-components-avatars-avatar-team-code-index-js": [
+      "component---src-pages-components-avatars-avatar-team-code-index-js-f24d01cee65817529494.js",
+      "component---src-pages-components-avatars-avatar-team-code-index-js-f24d01cee65817529494.js.map"
+    ],
+    "path---components-avatars-avatar-team-design": [
+      "path---components-avatars-avatar-team-design-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-team-design-1db04e5021b40904aca6.js.map"
+    ],
     "path---tokens-color": [
       "path---tokens-color-a5126178580d25fbf0b2.js",
       "path---tokens-color-a5126178580d25fbf0b2.js.map"
     ],
+    "component---src-pages-components-avatars-avatar-org-design-index-js": [
+      "component---src-pages-components-avatars-avatar-org-design-index-js-5aef1551ab23bcfb6875.js",
+      "component---src-pages-components-avatars-avatar-org-design-index-js-5aef1551ab23bcfb6875.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-62e208e3f7a386abeae8.js",
-      "component---src-layouts-index-js-62e208e3f7a386abeae8.js.map"
+      "component---src-layouts-index-js-9443a3a343a592323025.js",
+      "component---src-layouts-index-js-9443a3a343a592323025.js.map"
+    ],
+    "path---components-avatars-avatar-group-code": [
+      "path---components-avatars-avatar-group-code-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-group-code-1db04e5021b40904aca6.js.map"
     ],
     "path---color-color": [
       "path---color-color-1db04e5021b40904aca6.js",
@@ -32,35 +68,67 @@
       "path---links-links-1db04e5021b40904aca6.js",
       "path---links-links-1db04e5021b40904aca6.js.map"
     ],
+    "component---src-pages-components-avatars-avatar-group-code-index-js": [
+      "component---src-pages-components-avatars-avatar-group-code-index-js-89b92eee7641158c8cab.js",
+      "component---src-pages-components-avatars-avatar-group-code-index-js-89b92eee7641158c8cab.js.map"
+    ],
+    "component---src-pages-components-avatars-avatar-team-design-index-js": [
+      "component---src-pages-components-avatars-avatar-team-design-index-js-96d4eb27843876cde24d.js",
+      "component---src-pages-components-avatars-avatar-team-design-index-js-96d4eb27843876cde24d.js.map"
+    ],
     "path---page-2": [
       "path---page-2-1db04e5021b40904aca6.js",
       "path---page-2-1db04e5021b40904aca6.js.map"
+    ],
+    "path---components-avatars-avatar-user-code": [
+      "path---components-avatars-avatar-user-code-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-user-code-1db04e5021b40904aca6.js.map"
     ],
     "path---index": [
       "path---index-1db04e5021b40904aca6.js",
       "path---index-1db04e5021b40904aca6.js.map"
     ],
     "component---src-pages-links-links-jsx": [
-      "component---src-pages-links-links-jsx-193a08f65c1f252c0524.js",
-      "component---src-pages-links-links-jsx-193a08f65c1f252c0524.js.map"
+      "component---src-pages-links-links-jsx-3e20f5cf33791ad2f8d0.js",
+      "component---src-pages-links-links-jsx-3e20f5cf33791ad2f8d0.js.map"
+    ],
+    "path---components-avatars-avatar-org-design": [
+      "path---components-avatars-avatar-org-design-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-org-design-1db04e5021b40904aca6.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-79480b3dcd5a954fb664.js",
+      "commons-ffa3151f9ae13c86bb5f.js",
       "build-js-styles.css",
-      "commons-79480b3dcd5a954fb664.js.map",
+      "commons-ffa3151f9ae13c86bb5f.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---components-avatars-avatar-user-design": [
+      "path---components-avatars-avatar-user-design-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-user-design-1db04e5021b40904aca6.js.map"
     ],
     "path---404-html": [
       "path---404-html-1db04e5021b40904aca6.js",
       "path---404-html-1db04e5021b40904aca6.js.map"
     ],
+    "component---src-pages-components-avatars-avatar-group-design-index-js": [
+      "component---src-pages-components-avatars-avatar-group-design-index-js-d3a8ba6a677eb92a63d3.js",
+      "component---src-pages-components-avatars-avatar-group-design-index-js-d3a8ba6a677eb92a63d3.js.map"
+    ],
+    "path---components-avatars-avatar-team-code": [
+      "path---components-avatars-avatar-team-code-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-team-code-1db04e5021b40904aca6.js.map"
+    ],
+    "path---components-avatars": [
+      "path---components-avatars-1db04e5021b40904aca6.js",
+      "path---components-avatars-1db04e5021b40904aca6.js.map"
+    ],
     "component---src-pages-buttons-buttons-jsx": [
-      "component---src-pages-buttons-buttons-jsx-81561602b23458621e88.js",
-      "component---src-pages-buttons-buttons-jsx-81561602b23458621e88.js.map"
+      "component---src-pages-buttons-buttons-jsx-83e4eef273f0b1ef18e4.js",
+      "component---src-pages-buttons-buttons-jsx-83e4eef273f0b1ef18e4.js.map"
     ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
@@ -71,10 +139,14 @@
       "component---src-pages-color-color-jsx-5a8dffd59d3b82e70e05.js.map"
     ],
     "app": [
-      "app-b184cf6cfff479fa2f25.js",
+      "app-c51e6586edf3fa1d4d05.js",
       "build-js-styles.css",
-      "app-b184cf6cfff479fa2f25.js.map",
+      "app-c51e6586edf3fa1d4d05.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---components-avatars-avatar-group-design": [
+      "path---components-avatars-avatar-group-design-1db04e5021b40904aca6.js",
+      "path---components-avatars-avatar-group-design-1db04e5021b40904aca6.js.map"
     ],
     "path---404": [
       "path---404-1db04e5021b40904aca6.js",
