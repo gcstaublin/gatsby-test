@@ -3,8 +3,7 @@ import Link from 'gatsby-link';
 
 import ExamplePageHeader from '../../components/example-page-header/example-page-header';
 import ExampleComponent from '../../components/example-item-component/example-item-component';
-import { Textarea, Button, Headline } from '../../uniComponents';
-import UniButton from '../../uniComponents/uniButton';
+import { Button, Textarea, Headline } from 'hudl-uniform-ui-components';
 
 const LinksPage = () => (
   <div>

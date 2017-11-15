@@ -13,7 +13,7 @@
     "gatsby-transformer-json": "^1.0.11",
     "gatsby-transformer-yaml": "^1.5.11",
     "graphql": "^0.11.7",
-    "hudl-uniform-ui-components": "^2.19.1-release-dist.1020",
+    "hudl-uniform-ui-components": "^2.20.1",
     "hudl-uniform-ui-css": "^0.12.7",
     "prop-types": "^15.6.0"
   },
