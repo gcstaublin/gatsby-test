@@ -3,7 +3,6 @@ import Link from 'gatsby-link'
 
 import ExamplePageHeader from '../../../../../components/example-page-header/example-page-header';
 
-import { AvatarUser } from 'hudl-uniform-ui-components';
 
 
 const IndexPage = () => (
@@ -11,7 +10,7 @@ const IndexPage = () => (
     <div className="uni-bg--level0 uni-pad--two">
       <ExamplePageHeader pageTitle="Avatar User Design">
         <p className="uni-text uni-margin--one--btm">Avatars design is great!</p>
-        <AvatarUser size="profile" />
+        Removed
       </ExamplePageHeader>
 
       <br /> <br />

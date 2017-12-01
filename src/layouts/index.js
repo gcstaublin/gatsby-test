@@ -11,11 +11,11 @@ const Header = () => (
 <header className="uni-grid__row unidocs-primaryheader">
   <nav className="u-float--left">
     <h2 className="unidocs-primaryheader__title">
-      <a className="unidocs-primaryheader__link" href="/">Uniform UI</a>
+      <a className="unidocs-primaryheader__link" href="/">xxxxxx</a>
     </h2>
     <ul className="unidocs-primarynav">
       <li className="unidocs-primarynav__item">
-        <a href="/" className="unidocs-primarynav__link">Web</a>
+        <a href="/" className="unidocs-primarynav__link">xxxx</a>
       </li>
     </ul>
   </nav>
@@ -23,7 +23,7 @@ const Header = () => (
   <nav className="u-float--right">
     <ul className="unidocs-primarynav">
       <li className="unidocs-primarynav__item">
-        <a href="/" className="unidocs-primarynav__link ">Blog</a>
+        <a href="/" className="unidocs-primarynav__link ">xxxx</a>
       </li>
     </ul>
   </nav>

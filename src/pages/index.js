@@ -8,8 +8,7 @@ import ExamplePageHeader from '../components/example-page-header/example-page-he
 const IndexPage = () => (
   <div>
     <ExamplePageHeader pageTitle="This is a Gatsby test, yo">
-      <p>This site is an experiment in testing how well Gatsby might work for the Uniform squad as we rebuild and merge our documentation sites.</p>
-      <p>The first phase of this test, accomplishes two tasks: recreate a component heavy documentation page and create a page largely feed from a data source. These prototypes are not an exact 1-1 recreation. Some of the functionality and features are absent. This proof of concept to test whether we can figure out and use Gatsby to build our sites.</p>
+      <p>This site is an experiment in testing how well Gatsby might work for documentation sites.</p>
     </ExamplePageHeader>
 
     <br /> <br />

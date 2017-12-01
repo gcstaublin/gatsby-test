@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-test",
+  "description": "A sweet test repo",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "xxx",
   "dependencies": {
     "classnames": "^2.2.5",
     "gatsby": "^1.9.96",
@@ -14,8 +14,6 @@
     "gatsby-transformer-remark": "^1.7.20",
     "gatsby-transformer-yaml": "^1.5.11",
     "graphql": "^0.11.7",
-    "hudl-uniform-ui-components": "^2.20.1",
-    "hudl-uniform-ui-css": "^0.12.7",
     "prop-types": "^15.6.0",
     "react-markdown": "^2.5.0"
   },

@@ -16,11 +16,11 @@ const Nav = ({ children }) => {
       <ul className="unidocs-subnav__items">
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link selected">Getting Started</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link selected">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Auto Theming</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       </ul>
@@ -29,19 +29,19 @@ const Nav = ({ children }) => {
       <ul className="unidocs-subnav__items">
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Variables</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Deprecated Variables</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Z-Index + Elevation</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Mixins</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       </ul>
@@ -50,51 +50,51 @@ const Nav = ({ children }) => {
       <ul className="unidocs-subnav__items">
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Type</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Links</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Buttons</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Forms</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <Link to="/components/avatars">Avatars</Link>
+        <Link to="/components/avatars">xxxxxx</Link>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Selectmark</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Modals</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Selects</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Icons</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Space classNamees</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Environment + Level</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       <li className="unidocs-subnav__item">
-        <a href="/" className="uni-text--small unidocs-subnav__link ">Toasts</a>
+        <a href="/" className="uni-text--small unidocs-subnav__link ">xxxxxx</a>
       </li>
 
       </ul>

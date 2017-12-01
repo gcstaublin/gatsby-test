@@ -4,7 +4,6 @@ import Link from 'gatsby-link'
 import ExamplePageHeader from '../../../../../components/example-page-header/example-page-header';
 import ExampleComponent from '../../../../../components/example-item-component/example-item-component';
 
-import { AvatarOrg } from 'hudl-uniform-ui-components';
 
 
 
@@ -20,8 +19,7 @@ const IndexPage = () => (
         idLink="avatar-org"
         title="Avatar Org"
         status="stable">
-        <AvatarOrg size="profile" />
-        <AvatarOrg size="profile" />
+        Removed
       </ExampleComponent>
 
       <br /> <br />
